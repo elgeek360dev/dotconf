@@ -1,2 +1,2 @@
 # dotconf
-Alchivos de Configuracion .config
+Archivos de Configuracion .config
